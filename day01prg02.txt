@@ -1,0 +1,27 @@
+class c1{
+public void ranjith(){
+System.out.println("I am from cse");
+}
+public void sai(){
+System.out.println("I am from ECE");
+}
+public void dhruva(){
+System.out.println("I am from EEE");
+}
+public void vamsi(){
+System.out.println("I am from data science");
+}
+public void harthik(){
+System.out.println("I am from comuper science");
+}
+}
+class c2{
+public static void main(String args[]){
+c1 ob=new c1();
+ob.ranjith();
+ob.sai();
+ob.dhruva();
+ob.vamsi();
+ob.harthik();
+}
+}
